@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const moveCounter = document.getElementById('move-counter');
     let moves = 0;
     let matchedPairs = 0;
-    const totalPairs = 8; // There are 8 pairs in the game
+    const totalPairs = 8; 
     let firstCard, secondCard;
     let lockBoard = false;
 
